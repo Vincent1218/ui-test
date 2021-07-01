@@ -7,9 +7,10 @@
 ## Tech :
 ### Frontend framework : [React.js](https://reactjs.org/)
 ### UI Library : [Ant Design](https://ant.design/)
-### Cloud server : [Heroku](https://www.heroku.com)
-### Node version: v14.15.4.
-### NPM version: 7.19.0
+### Cloud server : [Digital Ocean](https://www.digitalocean.com/)
+### Node version(local): v14.15.4.
+### Node version(cloud server): v12.22.1.
+### NPM version (local & cloud sever): 7.19.0
 
 <br />
 <br />
@@ -19,7 +20,7 @@
 2. Unzip the file.
 3. Direct into `ui-dev-test`
 4. If this is your first time running the file, run `npm install `
-5. Run `npm start` to start the application and it will running at [http://localhost:3000/](http://localhost:3000/)
+5. Run `npm run start` to start the application and it will running at [http://localhost:3000/](http://localhost:3000/)
 <br />
 
 ## User Guide:
@@ -28,6 +29,6 @@
 2. To delete book, click `Dustbin Icon` on the top right of every card to delete.
 
 
-## Link to website: [Click Me!](http://178.128.57.31/)
+## Link to website: [Click Me!](http://178.128.219.124/)
 	
 
