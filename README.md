@@ -33,6 +33,5 @@
 2. To `delete` book, click `Dustbin Icon` on the top right of every card to `delete`.
 
 
-## Link to website: [Click Me!](http://178.128.219.124/)
 	
 
